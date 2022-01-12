@@ -1,0 +1,27 @@
+{
+  "name": "projekt-adv-webb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a19chrel/Projekt-Adv-Webb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a19chrel/Projekt-Adv-Webb/issues"
+  },
+  "homepage": "https://github.com/a19chrel/Projekt-Adv-Webb#readme",
+  "dependencies": {
+    "@mui/material": "^5.2.7",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.2",
+    "mongodb": "^4.2.2",
+    "react-paginate": "^8.1.0"
+  }
+}
